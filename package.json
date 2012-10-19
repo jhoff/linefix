@@ -1,0 +1,19 @@
+{
+  "name": "linefix",
+  "version": "0.1.0",
+  "description": "Recursively repair line endings",
+  "main": "/bin/fix.js",
+  "bin" : "./bin/fix.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git"
+  , "url" : "http://github.com/jhoff/linefix.git"
+  },
+  "author": "Jordan Hoff",
+  "license": "MIT"
+}
