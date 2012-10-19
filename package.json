@@ -1,6 +1,6 @@
 {
   "name": "linefix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Recursively repair line endings",
   "main": "/bin/fix.js",
   "bin" : "./bin/fix.js",
